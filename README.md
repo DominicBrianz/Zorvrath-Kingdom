@@ -72,13 +72,13 @@
   </section>
 
   <!-- Contact Section -->
-  <section id="contact" class="py-16 px-6 bg-gray-900">
+  <section id="085648147385" class="py-16 px-6 bg-gray-900">
     <div class="max-w-md mx-auto text-center">
       <h3 class="text-3xl font-bold text-purple-400 mb-4">Contact</h3>
       <p class="text-gray-400 mb-6">Want to join Zorvrath? Send us a message.</p>
       <form class="space-y-4">
-        <input type="text" placeholder="Your Name" class="w-full p-3 rounded-lg bg-gray-800 text-white placeholder-gray-500">
-        <input type="email" placeholder="Your Email" class="w-full p-3 rounded-lg bg-gray-800 text-white placeholder-gray-500">
+        <input type="text" placeholder="Tathe Surya" class="w-full p-3 rounded-lg bg-gray-800 text-white placeholder-gray-500">
+        <input type="email" placeholder="dominic1brianz@gmail.com" class="w-full p-3 rounded-lg bg-gray-800 text-white placeholder-gray-500">
         <textarea placeholder="Your Message" class="w-full p-3 rounded-lg bg-gray-800 text-white placeholder-gray-500 h-32"></textarea>
         <button type="submit" class="w-full bg-purple-600 hover:bg-purple-700 p-3 rounded-lg font-semibold">Send Message</button>
       </form>
